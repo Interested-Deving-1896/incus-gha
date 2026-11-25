@@ -68,7 +68,7 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 <!-- AI:start:contributors -->
 | Contributor | Commits |
 |---|---|
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 53 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 54 |
 | [@bketelsen](https://github.com/bketelsen) | 22 |
 <!-- AI:end:contributors -->
 
@@ -87,7 +87,7 @@ _No additional resource files found._
 ## Accessibility
 
 <!-- AI:start:accessibility -->
-No  was found when this README was generated. Check the
+No `accessibility-report.json` was found when this README was generated. Check the
 [Actions tab](https://github.com/Interested-Deving-1896/incus-gha/actions) for repository-specific checks, and document an
 accessibility status only when a report or workflow provides evidence for it.
 
